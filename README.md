@@ -15,12 +15,12 @@ I'm a 2026 Computer Science graduate from Northeast Agricultural University, foc
 
 ## Featured work / 代表项目
 
-- **Seedling Agent Orchestrator** — FastAPI + React + 视觉模型 + GPT 决策 + MQTT 执行的 Agent 闭环控制毕业设计。
-- **Live Streaming Studio** — Spring Boot + React + OBS + RTMP/HLS 的预览到开播全链路实验。
-- **Agentic API Testkit** — 面向 OpenAPI/REST 的自动化测试、AI 用例补充与报告工具。
-- **Hugging Face Inference Benchmark** — 面向文本、语音与视觉模型的多任务推理、延迟和可靠性评测工具。
-- **Android App Organizer** — 基于 Android 自动化与 LLM 规划的桌面应用整理实验。
-- **Realtime Poker Platform** — 使用 WebSocket、Spring Boot 与 React 构建的德州扑克实时对战平台。
+- **[Seedling Agent Orchestrator](https://github.com/device-kunkun/seedling-agent-orchestrator)** — FastAPI + React + 视觉模型 + GPT 决策 + MQTT 执行的 Agent 闭环控制毕业设计。
+- **[Live Streaming Studio](https://github.com/device-kunkun/live-streaming-studio)** — Spring Boot + React + OBS + RTMP/HLS 的预览到开播全链路实验。
+- **[Agentic API Testkit](https://github.com/device-kunkun/agentic-api-testkit)** — 面向 OpenAPI/REST 的自动化测试、AI 用例补充与报告工具。
+- **[Hugging Face Inference Benchmark](https://github.com/device-kunkun/huggingface-inference-benchmark)** — 面向文本、语音与视觉模型的多任务推理、延迟和可靠性评测工具。
+- **[Android App Organizer](https://github.com/device-kunkun/android-app-organizer)** — 基于 Android 自动化与 LLM 规划的桌面应用整理实验。
+- **[Realtime Poker Platform](https://github.com/device-kunkun/realtime-poker-platform)** — 使用 WebSocket、Spring Boot 与 React 构建的德州扑克实时对战平台。
 
 ## Stack / 技术栈
 
