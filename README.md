@@ -2,7 +2,7 @@
 
 > Agent Engineering · Live Digital Human · Real-time Media · Automation Tools · Backend Systems
 
-你好！我是东北农业大学计算机科学与技术专业 2026 届本科毕业生，关注 Agent 开发、自动化工具与实时音视频系统。目前就职于阿里巴巴淘天集团，从事直播数字人相关业务，此前曾在阿里淘天与美团实习。
+哈喽呀！我是东北农业大学计算机科学与技术专业 2026 届本科毕业生，关注 Agent 开发、自动化工具与直播实时音视频系统。目前就职于阿里巴巴淘天集团，从事直播数字人相关业务，此前曾在阿里淘天与美团实习。
 
 I'm a 2026 Computer Science graduate from Northeast Agricultural University, focused on agent engineering, automation tooling, and real-time media systems. I currently work at Alibaba's Taobao and Tmall Group on live digital-human-related products. Previously, I interned at Taobao and Tmall Group and Meituan.
 
