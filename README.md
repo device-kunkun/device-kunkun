@@ -1,6 +1,6 @@
 # Hi, I'm device-kunkun 👋
 
-> Agent Engineering · Live Digital Human · Real-time Media · Automation Tools · Backend Systems
+> Agent Engineering · Safe Physical Automation · Live Digital Human · Real-time Media
 
 哈喽呀！我是东北农业大学计算机科学与技术专业 2026 届本科毕业生，关注 Agent 开发、自动化工具与直播实时音视频系统。目前就职于阿里巴巴淘天集团，从事直播数字人相关业务，此前曾在阿里淘天与美团实习。
 
@@ -15,7 +15,7 @@ I'm a 2026 Computer Science graduate from Northeast Agricultural University, foc
 
 ## Featured work / 代表项目
 
-- **[Seedling Agent Orchestrator](https://github.com/device-kunkun/seedling-agent-orchestrator)** — FastAPI + React + 视觉模型 + GPT 决策 + MQTT 执行的 Agent 闭环控制毕业设计。
+- **[Seedling Agent Orchestrator](https://github.com/device-kunkun/seedling-agent-orchestrator)** — 毕业设计：把视觉与传感器证据、受约束决策、MQTT 执行和结果回放串成可复现的物理 Agent 闭环；默认离线模拟，无需硬件或 API Key。
 - **[Live Streaming Studio](https://github.com/device-kunkun/live-streaming-studio)** — Spring Boot + React + OBS + RTMP/HLS 的预览到开播全链路实验。
 - **[Agentic API Testkit](https://github.com/device-kunkun/agentic-api-testkit)** — 面向 OpenAPI/REST 的自动化测试、AI 用例补充与报告工具。
 - **[Hugging Face Inference Benchmark](https://github.com/device-kunkun/huggingface-inference-benchmark)** — 面向文本、语音与视觉模型的多任务推理、延迟和可靠性评测工具。
